@@ -1,0 +1,23 @@
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuriaApp.Data.deps.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuriaApp.Data.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.csprojAssemblyReference.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.AssemblyInfoInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.AssemblyInfo.cs
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuriaApp.Data.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.csproj.CopyComplete
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuriaApp.Data.deps.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuriaApp.Data.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuriaApp.Data.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.csprojAssemblyReference.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.AssemblyInfoInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.AssemblyInfo.cs
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.csproj.CopyComplete
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuriaApp.Data\obj\Debug\netstandard2.1\SamuriaApp.Data.pdb

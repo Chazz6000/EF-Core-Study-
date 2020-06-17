@@ -1,0 +1,103 @@
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\SamuriaApp.Data.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\SamuriaApp.Data.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\SamuraiApp.Data.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\SamuraiApp.Data.pdb

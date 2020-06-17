@@ -1,0 +1,18 @@
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.deps.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csprojAssemblyReference.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\Getting Started in EF core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.deps.json
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.pdb
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csprojAssemblyReference.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\Charlie\Desktop\Development Studies\EF\PluralSight\EF Core 2 getting started\New folder\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.pdb
